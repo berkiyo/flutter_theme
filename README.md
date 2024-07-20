@@ -1,5 +1,9 @@
 # flutter_theme
-Boilerplate for creating flutter themes with shared_preferences
+Boilerplate for creating flutter themes with shared_preferences. 
+
+The theme selection is done with "AlertDialog".
+
+Both dark and light variants are available and the state is stored thakns to the "shared_preferences" library.
 
 ## requirements
 Import "shared_preferences"
